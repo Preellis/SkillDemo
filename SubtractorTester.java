@@ -3,6 +3,6 @@ import org.junit.*;
 public class SubtractorTester {
   @Test
   public void subtractTest(){
-    assertEquals(0, Subtractor.subtract(1, 2));
+    assertEquals(0, Subtractor.subtract(1, 1));
   }
 }
